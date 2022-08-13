@@ -2,7 +2,7 @@
   "name": "npmtest20220813",
   "version": "1.0.0",
   "description": "",
-  "repository": "kaizawa97/npmtest20220813",
+  "repository": "koluke/GitHubGraduation-2021",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
